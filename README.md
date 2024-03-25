@@ -9,4 +9,7 @@ Thanks, [araujo88](https://github.com/araujo88) for [important-algorithms](https
 # Let's learn together! 🚀
 
 ## Table of Contents
+
 - Binary Search
+  - [Problem: Find Element in Sorted Array](binarySearch/findElementSortedArray/problem.md)
+    - [Solution](binarySearch/findElementSortedArray/solution.playground/Contents.swift)
