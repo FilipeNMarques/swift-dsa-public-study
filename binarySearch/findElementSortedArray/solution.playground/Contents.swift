@@ -20,4 +20,5 @@ func search(_ nums: [Int], _ target: Int) -> Int {
 
 let nums = [-1, 0, 3, 5, 9, 12]
 
-search(nums, 9)
+print(search(nums, -1))
+
