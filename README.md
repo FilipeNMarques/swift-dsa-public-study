@@ -13,3 +13,5 @@ Thanks, [araujo88](https://github.com/araujo88) for [important-algorithms](https
 - Binary Search
   - [Problem: Find Element in Sorted Array](binarySearch/findElementSortedArray/problem.md)
     - [Solution](binarySearch/findElementSortedArray/solution.playground/Contents.swift)
+  - [Problem: Find First and Last Position of Element in Sorted Array](binarySearch/findFirstLastPositionElementSortedArray/problem.md)
+    - [Solution](binarySearch/findFirstLastPositionElementSortedArray/solution.playground/Contents.swift)
